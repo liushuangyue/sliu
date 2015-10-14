@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdmserverobject:WSViewE xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:mdmserverobject="http://www.talend.org/mdmserverobject" xmi:id="_z7N1wKLXEeOa579VFvIJeg" name="Browse_items_Contexte" description="[EN:Contexts][FR:Contextes]" timestamp="1424852576289" digestValue="f3bbc8dc19f47a6b3a97525e6eacdabd" transformerPK="">
+  <searchableBusinessElements>Contexte/IdContexte</searchableBusinessElements>
+  <searchableBusinessElements>Contexte/TypeContexteFk</searchableBusinessElements>
+  <searchableBusinessElements>Contexte/StatutContexteFk</searchableBusinessElements>
+  <searchableBusinessElements>Contexte/DateDebutContexte</searchableBusinessElements>
+  <searchableBusinessElements>Contexte/DateFinContexte</searchableBusinessElements>
+  <viewableBusinessElements>Contexte/IdContexte</viewableBusinessElements>
+  <viewableBusinessElements>Contexte/TypeContexteFk</viewableBusinessElements>
+  <viewableBusinessElements>Contexte/StatutContexteFk</viewableBusinessElements>
+  <viewableBusinessElements>Contexte/DateDebutContexte</viewableBusinessElements>
+  <viewableBusinessElements>Contexte/DateFinContexte</viewableBusinessElements>
+  <viewableBusinessElements>Contexte/SocieteFk</viewableBusinessElements>
+  <viewableBusinessElements>Contexte/OrganisationFk</viewableBusinessElements>
+  <isTransformerActive xmi:id="_z7N1wqLXEeOa579VFvIJeg"/>
+</mdmserverobject:WSViewE>

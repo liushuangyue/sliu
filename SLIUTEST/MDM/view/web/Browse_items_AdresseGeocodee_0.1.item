@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdmserverobject:WSViewE xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:mdmserverobject="http://www.talend.org/mdmserverobject" xmi:id="_zC1cQKLXEeOa579VFvIJeg" name="Browse_items_AdresseGeocodee" description="[FR:Adresses géocodées]" timestamp="1424852576527" digestValue="098a36b1a0e4fdeb2285decdc589464e" transformerPK="">
+  <searchableBusinessElements>AdresseGeocodee/IdAdresse</searchableBusinessElements>
+  <searchableBusinessElements>AdresseGeocodee/AdresseNormalisee</searchableBusinessElements>
+  <viewableBusinessElements>AdresseGeocodee/IdAdresse</viewableBusinessElements>
+  <viewableBusinessElements>AdresseGeocodee/AdresseNormalisee</viewableBusinessElements>
+  <isTransformerActive xmi:id="_cBXOwHruEeS7PMoeWGnZ2w"/>
+</mdmserverobject:WSViewE>

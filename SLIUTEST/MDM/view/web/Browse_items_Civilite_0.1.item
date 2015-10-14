@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdmserverobject:WSViewE xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:mdmserverobject="http://www.talend.org/mdmserverobject" xmi:id="_yw-3QKLXEeOa579VFvIJeg" name="Browse_items_Civilite" description="[FR:Civilités]" timestamp="1424852575043" digestValue="48875d787a820219f4319de24f43aaec" transformerPK="">
+  <searchableBusinessElements>Civilite/IdCivilite</searchableBusinessElements>
+  <searchableBusinessElements>Civilite/Libelle</searchableBusinessElements>
+  <searchableBusinessElements>Civilite/Sexe</searchableBusinessElements>
+  <viewableBusinessElements>Civilite/IdCivilite</viewableBusinessElements>
+  <viewableBusinessElements>Civilite/Libelle</viewableBusinessElements>
+  <viewableBusinessElements>Civilite/Sexe</viewableBusinessElements>
+  <isTransformerActive xmi:id="_yw-3QqLXEeOa579VFvIJeg"/>
+</mdmserverobject:WSViewE>

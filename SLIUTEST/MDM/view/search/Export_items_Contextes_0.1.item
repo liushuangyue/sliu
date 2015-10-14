@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdmserverobject:WSViewE xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:mdmserverobject="http://www.talend.org/mdmserverobject" xmi:id="_zhfHIKLXEeOa579VFvIJeg" name="Export_items_Contextes" description="Export Contextes" timestamp="1424852575871" digestValue="8528cfd0be5175b89803f3b6918acc3e" transformerPK="">
+  <searchableBusinessElements>Contexte/IdContexte</searchableBusinessElements>
+  <searchableBusinessElements>Contexte/TypeContexteFk</searchableBusinessElements>
+  <searchableBusinessElements>Contexte/SocieteFk</searchableBusinessElements>
+  <viewableBusinessElements>Contexte/IdContexte</viewableBusinessElements>
+  <viewableBusinessElements>Contexte/TypeContexteFk</viewableBusinessElements>
+  <viewableBusinessElements>Contexte/StatutContexteFk</viewableBusinessElements>
+  <viewableBusinessElements>Contexte/DateDebutContexte</viewableBusinessElements>
+  <viewableBusinessElements>Contexte/DateFinContexte</viewableBusinessElements>
+  <viewableBusinessElements>Contexte/OrganisationFk</viewableBusinessElements>
+  <viewableBusinessElements>Contexte/SocieteFk</viewableBusinessElements>
+  <viewableBusinessElements>Contexte/Fonction</viewableBusinessElements>
+  <viewableBusinessElements>Contexte/Service</viewableBusinessElements>
+  <viewableBusinessElements>Contexte/SocieteExterneFk</viewableBusinessElements>
+  <viewableBusinessElements>Contexte/DomaineFk</viewableBusinessElements>
+  <viewableBusinessElements>Contexte/NiveauResponsabiliteFk</viewableBusinessElements>
+  <viewableBusinessElements>Contexte/Contacts/Contact</viewableBusinessElements>
+  <isTransformerActive xmi:id="_zhfHIqLXEeOa579VFvIJeg"/>
+</mdmserverobject:WSViewE>

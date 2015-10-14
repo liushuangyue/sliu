@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdmserverobject:WSViewE xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:mdmserverobject="http://www.talend.org/mdmserverobject" xmi:id="_yj42cKLXEeOa579VFvIJeg" name="Browse_items_ElementArborescence" description="[FR:Eléments d'arborescence]" timestamp="1424852577054" digestValue="b4a48655d09ce000555a678a5b250300" transformerPK="">
+  <searchableBusinessElements>ElementArborescence/Code</searchableBusinessElements>
+  <searchableBusinessElements>ElementArborescence/Nom</searchableBusinessElements>
+  <searchableBusinessElements>ElementArborescence/NiveauArborescenceFk</searchableBusinessElements>
+  <searchableBusinessElements>ElementArborescence/Archive</searchableBusinessElements>
+  <searchableBusinessElements>ElementArborescence/TypeElementArborescence</searchableBusinessElements>
+  <viewableBusinessElements>ElementArborescence/IdElementArborescence</viewableBusinessElements>
+  <viewableBusinessElements>ElementArborescence/Code</viewableBusinessElements>
+  <viewableBusinessElements>ElementArborescence/Nom</viewableBusinessElements>
+  <viewableBusinessElements>ElementArborescence/NiveauArborescenceFk</viewableBusinessElements>
+  <viewableBusinessElements>ElementArborescence/Archive</viewableBusinessElements>
+  <viewableBusinessElements>ElementArborescence/TypeElementArborescence</viewableBusinessElements>
+  <isTransformerActive xmi:id="_yj42cqLXEeOa579VFvIJeg"/>
+</mdmserverobject:WSViewE>

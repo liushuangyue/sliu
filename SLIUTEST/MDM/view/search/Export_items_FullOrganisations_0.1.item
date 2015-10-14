@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdmserverobject:WSViewE xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:mdmserverobject="http://www.talend.org/mdmserverobject" xmi:id="_yR5HgKLXEeOa579VFvIJeg" name="Export_items_FullOrganisations" description="Export des organisations" timestamp="1424852575760" digestValue="ef50a6414d4fd5e0392288b9019d53b0" transformerPK="">
+  <searchableBusinessElements>Organisation/IdOrganisation</searchableBusinessElements>
+  <viewableBusinessElements>Organisation/IdOrganisation</viewableBusinessElements>
+  <viewableBusinessElements>Organisation/LibelleCourt</viewableBusinessElements>
+  <viewableBusinessElements>Organisation/LibelleLong</viewableBusinessElements>
+  <viewableBusinessElements>Organisation/SocieteFk</viewableBusinessElements>
+  <viewableBusinessElements>Organisation/StatutOrganisationFk</viewableBusinessElements>
+  <viewableBusinessElements>Organisation/TypeOrganisationFk</viewableBusinessElements>
+  <viewableBusinessElements>Organisation/NiveauOrganisationFk</viewableBusinessElements>
+  <viewableBusinessElements>Organisation/PereOrganisationFk</viewableBusinessElements>
+  <viewableBusinessElements>Organisation/Logo</viewableBusinessElements>
+  <viewableBusinessElements>Organisation/Contacts</viewableBusinessElements>
+  <isTransformerActive xmi:id="_yR5HgqLXEeOa579VFvIJeg"/>
+</mdmserverobject:WSViewE>
